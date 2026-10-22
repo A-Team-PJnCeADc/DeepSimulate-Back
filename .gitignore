@@ -1,0 +1,6 @@
+target/
+.idea/
+deepsim.db
+deepsim.db-shm
+deepsim.db-wal
+*.log

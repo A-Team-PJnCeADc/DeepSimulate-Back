@@ -1,0 +1,15 @@
+{
+  "cash_available": 994370000,
+  "cash_frozen": 2235000,
+  "total_asset": 999995000,
+  "positions": [
+    {
+      "code": "000001",
+      "total": 300,
+      "available": 0,
+      "cost": 11316
+    }
+  ],
+  "orders": [],
+  "trades": []
+}
